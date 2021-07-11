@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wrodesxs
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on -----
+- 🌱 I’m currently learning Dart/Flutter
+- 💞️ I’m looking to collaborate on mobile apps
 - 📫 How to reach me -----
 
 <!---
