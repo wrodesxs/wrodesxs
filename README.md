@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wrodesxs!
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wrodesxs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrodesxs&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrodesxs&theme=cobalt"/>
 </div>
 
 <div style="display: inline_block"><br>
